@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CentroCostos/IESGAMING/Def Juegos/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CentroCostos/IESGAMING/Def Juegos/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CentroCostos/IESGAMING/Def Juegos/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CentroCostos/IESGAMING/Def Juegos/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,6 +206,9 @@
   },
   "active": "313c44b5c6262231",
   "lastOpenFiles": [
+    "Clientes/Clientes.md",
+    "CentroCostos/CentroCostos.md",
+    "CentroCostos/IESGAMING/Def Juegos/index.md",
     "CentroCostos/IESGAMING/Def Juegos/Bingo.md",
     "CentroCostos/SMOL/Proyectos/SMOL.md",
     "CentroCostos/SMOL/Proyectos/index.md",
@@ -214,13 +217,10 @@
     "Clientes/index.md",
     "index.md",
     "Clientes/KenoR3.md",
-    "CentroCostos/CentroCostos.md",
     "CentroCostos.md",
-    "Clientes/Clientes.md",
     "Iniciativas/Iniciativas.md",
     "Bienvenido.md",
     "CentroCostos/IESGAMING/Proyectos/index.md",
-    "CentroCostos/IESGAMING/Def Juegos/index.md",
     "CentroCostos/SMOL/Proyectos/SNA.md",
     "CentroCostos/WALLIFY/Proyectos/WALLIFY.md",
     "CentroCostos/WALLIFY/Proyectos/NewsProvider.md",
