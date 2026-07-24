@@ -8,6 +8,8 @@ se comunica  con las maquinas slot y guarda la informacion en la base de datos p
 
 el protocolo de comunicacion se llama sas
 
+lo mas importante dentro del sistema es registrar los contadores que son los valores actuales de la maquina, estos contadores con coin_in,coin_out, hand_pay, bill, etc
+
 con el protocolo se puede recibir o enviar cierta informacion mediante tramas, las acciones son
 
 - pedir contadores

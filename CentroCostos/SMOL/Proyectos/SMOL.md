@@ -12,6 +12,8 @@ el smol también ayuda a llevar la contabilidad del casino como una sucursal de 
 
 ayuda al proceso de carga remota, pago de premios mediante la caja
 
+guarda la informacion de los contadores para realizar cierres y liquidaciones de las maquinas slot
+
 también ayuda en el proceso de los destildadores a llevar registro de la plata que manejan
 
 
