@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clientes/KenoR3.md",
+                "file": "CentroCostos/SMOL/Proyectos/SNA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KenoR3"
+              "title": "SNA"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clientes/KenoR3.md",
+                "file": "CentroCostos/SMOL/Proyectos/SNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de KenoR3"
+              "title": "Enlaces entrantes de SNA"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clientes/KenoR3.md",
+                "file": "CentroCostos/SMOL/Proyectos/SNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de KenoR3"
+              "title": "Enlaces salientes de SNA"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clientes/KenoR3.md",
+                "file": "CentroCostos/SMOL/Proyectos/SNA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de KenoR3"
+              "title": "Esquema de SNA"
             }
           },
           {
@@ -225,26 +225,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5d72f52602027e",
+  "active": "df7af6c6b59ae634",
   "lastOpenFiles": [
-    "Clientes/Blinkazar.md",
-    "Clientes/KenoR3.md",
-    "Clientes/Gana.md",
-    "Clientes/VirtualSoft.md",
-    "Clientes/Betplay.md",
     "CentroCostos/WALLIFY/Proyectos/WALLIFY.md",
     "CentroCostos/WALLIFY/Proyectos/NewsProvider.md",
+    "Clientes/KenoR3.md",
+    "Clientes/Blinkazar.md",
+    "Clientes/Gana.md",
+    "Clientes/Betplay.md",
+    "CentroCostos/IESGAMING/Proyectos/operadores.md",
     "CentroCostos/SMOL/Proyectos/SNA.md",
-    "CentroCostos/WALLIFY/Proyectos",
     "CentroCostos/SMOL/Proyectos/SMOL+.md",
     "CentroCostos/SMOL/Proyectos/SMOL-COM.md",
     "CentroCostos/SMOL/Proyectos/SMOL.md",
+    "CentroCostos/IESGAMING/Def Juegos/Poker Neon Tob.md",
+    "CentroCostos/IESGAMING/Def Juegos/Poker Neon Job.md",
+    "CentroCostos/IESGAMING/Def Juegos/Bingo.md",
+    "CentroCostos/IESGAMING/Def Juegos/Keno.md",
     "CentroCostos/IESGAMING/Proyectos/kimsa-keno.md",
+    "Clientes/VirtualSoft.md",
+    "CentroCostos/WALLIFY/Proyectos",
     "CentroCostos/SMOL/Proyectos",
-    "CentroCostos/IESGAMING/Proyectos/operadores.md",
     "CentroCostos/IESGAMING/Proyectos/Kimsa-Ies-gaming.md",
     "CentroCostos/IESGAMING/Proyectos/Bingo Salas.md",
-    "CentroCostos/IESGAMING/Def Juegos/Bingo.md",
     "CentroCostos/IESGAMING/Proyectos",
     "CentroCostos/IESGAMING/Def Juegos",
     "Sin nombre 1",

@@ -1,0 +1,1 @@
+20 numeros de 80, se pueden apostar hasta 10 numeros

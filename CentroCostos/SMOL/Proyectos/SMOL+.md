@@ -1,0 +1,1 @@
+Centraliza toda la informacion de todos los clientes del [[SMOL]]

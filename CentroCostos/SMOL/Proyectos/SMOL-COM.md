@@ -1,0 +1,1 @@
+se comunica  con las maquinas y guarda la informacion en la base de datos para que despues pueda ser leida en el [[SMOL]]
