@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clientes/VirtualSoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "VirtualSoft"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Clientes/VirtualSoft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de index"
+              "title": "Enlaces entrantes de VirtualSoft"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Clientes/VirtualSoft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de index"
+              "title": "Enlaces salientes de VirtualSoft"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Clientes/VirtualSoft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de index"
+              "title": "Esquema de VirtualSoft"
             }
           },
           {
@@ -206,32 +206,32 @@
   },
   "active": "313c44b5c6262231",
   "lastOpenFiles": [
+    "Clientes/Megasuerte.md",
+    "Clientes/KingClub.md",
+    "Clientes/KenoR3.md",
+    "Clientes/Gana.md",
+    "CentroCostos/WALLIFY/Proyectos/WALLIFY.md",
+    "CentroCostos/WALLIFY/Proyectos/NewsProvider.md",
+    "CentroCostos/SMOL/Proyectos/SMOL.md",
+    "CentroCostos/SMOL/Proyectos/SMOL+.md",
+    "CentroCostos/SMOL/Proyectos/SMOL-COM.md",
+    "index.md",
     "Clientes/Clientes.md",
     "CentroCostos/CentroCostos.md",
     "CentroCostos/IESGAMING/Def Juegos/index.md",
     "CentroCostos/IESGAMING/Def Juegos/Bingo.md",
-    "CentroCostos/SMOL/Proyectos/SMOL.md",
     "CentroCostos/SMOL/Proyectos/index.md",
     "CentroCostos/WALLIFY/Proyectos/index.md",
     "CentroCostos/index.md",
     "Clientes/index.md",
-    "index.md",
-    "Clientes/KenoR3.md",
     "CentroCostos.md",
     "Iniciativas/Iniciativas.md",
     "Bienvenido.md",
     "CentroCostos/IESGAMING/Proyectos/index.md",
     "CentroCostos/SMOL/Proyectos/SNA.md",
-    "CentroCostos/WALLIFY/Proyectos/WALLIFY.md",
-    "CentroCostos/WALLIFY/Proyectos/NewsProvider.md",
     "Clientes/Blinkazar.md",
-    "Clientes/Gana.md",
     "Clientes/Betplay.md",
     "CentroCostos/IESGAMING/Proyectos/operadores.md",
-    "CentroCostos/SMOL/Proyectos/SMOL+.md",
-    "CentroCostos/SMOL/Proyectos/SMOL-COM.md",
-    "CentroCostos/IESGAMING/Def Juegos/Poker Neon Tob.md",
-    "CentroCostos/IESGAMING/Def Juegos/Poker Neon Job.md",
     "CentroCostos/WALLIFY/Proyectos",
     "CentroCostos/SMOL/Proyectos",
     "CentroCostos/IESGAMING/Proyectos",
